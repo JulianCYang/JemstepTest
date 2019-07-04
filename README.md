@@ -3,7 +3,7 @@ Create a sample docker compose file by following a simple getting started tutori
 
 1.1) Install the Docker (Prerequisite with the assumption that you are using Ubuntu):
 
- [Install Docker](`https://docs.docker.com/install/linux/docker-ce/ubuntu/`)
+ [Install Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
 1.2) Uninstall  old version: 
 
@@ -41,7 +41,7 @@ Create a sample docker compose file by following a simple getting started tutori
 
 2.1) Getting started with Docker Compose
 
-[Docker Compose](`https://docs.docker.com/compose/gettingstarted/`)
+[Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 
 2.2) Setup:
 
